@@ -3,7 +3,7 @@
 <img src="https://storage.googleapis.com/gopherizeme.appspot.com/gophers/554de4d85f68c1d9cf6ab4c6d4a07a2aa21f8056.png" width="75" height="75"> [![Go Reference](https://pkg.go.dev/badge/github.com/go-random/template.svg)](https://pkg.go.dev/github.com/go-random/template)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/go-random/template)
 
-Generate random template with Go, simple and fast.
+Generate random <template> with Go, simple and fast.
 
 ## Contributing
 
