@@ -1,6 +1,6 @@
 package template
 
-// GenerateRandomNumber generates a random number using the full range of the randomizer.
-func (tr *Randomizer) GenerateRandomNumber() int {
-	return tr.Rand.Int()
+// Int generates a random integer using the full range of the randomizer.
+func (nr *Randomizer) Int() int {
+	return nr.Rand.Int()
 }
